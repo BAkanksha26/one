@@ -1,0 +1,11 @@
+public class demo1 {
+   public static void main(Strings[] args){
+      Scanner sc=new Scanner (System.in);
+      calc c= new calc();
+      int a=sc.nextInt();
+      int b=nextInt();
+      c.add();
+      System.out.println(c.d);
+   }
+}
+     
